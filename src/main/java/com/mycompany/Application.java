@@ -19,6 +19,7 @@ public class Application {
 
             System.out.println("Let's inspect the beans provided by Spring Boot:");
 
+
         };
     }
 
